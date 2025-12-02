@@ -1,4 +1,4 @@
-# Karesz Minótaurosz mögött lopakszik.
+# Karesz Minótaurosz mögött lopakszik
 Karesz ki akar jutni a labirintusból, de egy random járőröző Minótaurosz állja el a kijárathoz vezető utat. 
 Figyeld meg a Minótaurosz mozgását (vagy tanulmányozd szerkesztés nélkül a Tanar.cs-t), és segíts Karesznak kijutni a labirintusból!
 
