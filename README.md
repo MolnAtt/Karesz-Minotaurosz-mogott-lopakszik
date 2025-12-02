@@ -1,9 +1,8 @@
 # Karesz kijut II.
-Karesz azt a feladatot kapta, hogy takarítsa ki a csatornarendszert. 
-Ez most egy bonyolultabb csatornarendszer, mert tele van elágazásokkal és több ponton kivezet a csatornarendszerből.
-Karesz feladata, hogy a csatornarendszerben lévő összes szemetet összegyűjtse és a végén oda álljon vissza és arra nézzen, ahonnan indult.
+Karesz ki akar jutni a labirintusból, de egy random járőröző Minótaurosz állja el a kijárathoz vezető utat. 
+Figyeld meg a Minótaurosz mozgását (vagy tanulmányozd szerkesztés nélkül a Tanar.cs-t), és segíts Karesznak kijutni a labirintusból!
 
-Ebben a feladatban **nem lehet ultrahang szenzorokat használni!**
+Ebben a feladatban ultrahang-szenzorra lesz szükséged!
 
 
 # K.A.R.E.SZ.
